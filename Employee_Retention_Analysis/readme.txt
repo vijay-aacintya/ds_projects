@@ -2,6 +2,6 @@ XYZ company would like to know whether employee works for the company will stay 
 
 XYZ company has provided the dataset with various features - ['satisfaction_level', 'last_evaluation', 'number_project', 'average_montly_hours', 'time_spend_company', 'Work_accident', 'left', 'promotion_last_5years', 'Department', 'salary']
 
-**Employee Retention Analysis was performed using Regression Analysis.**
+**Employee Retention Analysis was performed using Regression Analysis.
 Pycaret Libraries was used to select the Model and peform the prediction
-<b>EDA was not performed for the dataset, to check out how to do it, see my Food Hub Project</b>
+EDA was not performed for the dataset, to check out how to do it, see my Food Hub Project
