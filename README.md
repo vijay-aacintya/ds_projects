@@ -1,0 +1,1 @@
+I am an avid data scientist. The insights gleaned from data can either reinforce existing beliefs and conclusions or completely surprise you. I love how data tells a story and reveals the underlying truths.
